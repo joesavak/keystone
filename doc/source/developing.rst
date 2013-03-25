@@ -35,7 +35,7 @@ Setup
 -----
 .. _setup: setup.rst
 .. _configuration: configuration.rst
-.. _keystonemanage: man/keystone-manage
+.. _keystonemanage: man/keystone-manage.rst
 
 Get your development environment set up according to setup_. The
 instructions from here will assume that you have installed keystone into a
