@@ -35,6 +35,7 @@ Setup
 -----
 .. _setup: setup.rst
 .. _configuration: configuration.rst
+.. _keystonemanage: man/keystone-manage
 
 Get your development environment set up according to setup_. The
 instructions from here will assume that you have installed keystone into a
@@ -59,7 +60,7 @@ Interacting with Keystone
 -------------------------
 
 You can interact with Keystone through the command line using
-:doc:`man/keystone-manage` which allows you to establish tenants, users, etc.
+keystonemanage_ which allows you to establish tenants, users, etc.
 
 
 You can also interact with Keystone through its REST API. There is a python
